@@ -78,9 +78,12 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| 1 Raspberry Pi 4 | Used for main function | $27.60 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| 1 Micro SD Card | Used to transfer Pi data | $9.99 | <a href="https://www.amazon.com/gp/product/B089VVP61W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1"> Link </a> |
+| 1 Breadboard | Used for wiring | $5.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| ArduCam 5 MegaPixels  | Used to capture videos | $6.99 | <a href="https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/ref=sr_1_3?crid=3D0S8QO1JMVVF&dib=eyJ2IjoiMSJ9.A7iVhmlMaLIViV1yyMin_nU2DQfo0nrAEcyeAs8mEnPK2j-S-lsM2oSz7vHo3GDTUaA_rqRWlkMjX2LctQaA6YFATgi6lE_-gRCmo6ceFLlteBs_4BIqQH6OAgIWYG80F3buL79NPc15wtdWFZeGgZ_SZ-xv7-owqJDvMCV4r1jUMepokR0PsSdYwgR7SHnjMC6zE8IEKf3dClleAWgamZROLFTCUyrtYWJz-vZiyCk.PIfcN8OHUXkRl8TtP9q8lTaLSWRWzkD05N5WZe9QtLI&dib_tag=se&keywords=arducam+5+megapixels&qid=1719950245&sprefix=arducam+5+megapixels%2Caps%2C132&sr=8-3"> Link </a> |
+| Mini Pyroelectric Sensor | Used to activate Camera | $Price | <a href=""> Link </a> |
+
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
