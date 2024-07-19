@@ -21,6 +21,8 @@ You should comment out all portions of your portfolio that you have not complete
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZUkmniZqjFc?si=JPLYvx1a1L9iQEth" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+One m
+
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
@@ -33,7 +35,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdsOlH5IUc4?si=NhX6bEvY-iC0bfba" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-My first milestone was not only setting up and building the Raspberry Pi and all the rest components along with it, but also coding and utilizing the motion detector and getting the Pi camera to work. I set up the heatsinks, the sd card, and as well the Pi camera, and the motion detector. However, this was not a smooth process as I faced many difficulties from taking a long time to find where the sd card fit into the Raspberry Pi, to finding out that my coding didn't work due to the outdated software issues. Although setting up the Raspberry Pi was relatively easy, I found out that it takes a lot of time getting familiar to new things. Similarly, as I didn't know much about python and it's differences to the coding languages I learned, I strugged on basic commands to find out that I missed something really minor in my code. Despite all that, I 
+My first milestone was not only setting up and building the Raspberry Pi and all the rest components along with it, but also coding and utilizing the motion detector and getting the Pi camera to work. I set up the heatsinks, the sd card, and as well the Pi camera, and the motion detector. However, this was not a smooth process as I faced many difficulties from taking a long time to find where the sd card fit into the Raspberry Pi, to finding out that my coding didn't work due to the outdated software issues. Although setting up the Raspberry Pi was relatively easy, I found out that it takes a lot of time getting familiar to new things. Similarly, as I didn't know much about python and it's differences to the coding languages I learned, I strugged on basic commands to find out that I missed something really minor in my code. Despite all that, I still managed to push through and learned a lot through following simple instructions.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
