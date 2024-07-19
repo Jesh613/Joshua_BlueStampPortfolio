@@ -45,7 +45,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=pdsOlH5IUc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pdsOlH5IUc4?si=NhX6bEvY-iC0bfba" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 My first milestone was not only setting up and building the Raspberry Pi and all the rest components along with it, but also coding and utilizing the motion detector and getting the Pi camera to work. I set up the heatsinks, the sd card, and as well the Pi camera, and the motion detector. However, this was not a smooth process as I faced many difficulties from taking a long time to find where the sd card fit into the Raspberry Pi, to finding out that my coding didn't work due to the outdated software issues. Although setting up the Raspberry Pi was relatively easy, I found out that it takes a lot of time getting familiar to new things. Similarly, as I didn't know much about python and it's differences to the coding languages I learned, I strugged on basic commands to find out that I missed something really minor in my code. Despite all that, I 
 
